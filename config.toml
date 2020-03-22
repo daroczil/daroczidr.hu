@@ -7,7 +7,7 @@ version = "0.16.1"
 #publishDir = "docs"
 
 # Google Analytics tracking
-googleAnalytics = ""
+googleAnalytics = "" # TODO
 
 [outputs]
   home = ["HTML", "JSON"]
