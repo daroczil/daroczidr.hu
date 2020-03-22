@@ -7,7 +7,7 @@ weight = 1100
 form_name = "defaultContact"
 
 title = "Üzenet küldése"
-subtitle  = "Kérjük, hogy adja meg elérhetőségeit, majd irja meg üzenetét, és kattintson a Küldés gombra."
+subtitle  = "Kérjük, hogy adja meg elérhetőségeit, majd írja meg üzenetét, és kattintson a Küldés gombra."
 
 # PostURL can be used with backends such as mailout from caddy
 #post_url = "https://example.com/mailout" #default: formspree.io
