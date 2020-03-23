@@ -1,7 +1,7 @@
 +++
 title = "Dr. Nátrán-Daróczi Vera" 
 weight = 2
-position = "Kisállat-specialista klinikus szakállatorvos (?)"
+position = "Állatorvos"
 phone="+36 (70) 525-5901"
 
 #[[icons]] 
