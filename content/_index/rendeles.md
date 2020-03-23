@@ -11,16 +11,15 @@ title = "Rendelési idő"
 #padding="0"
 +++
 
-Bár az elmúlt 25 évben már megszokhatták, hogy hétköznaponként délután 4 és 7 óra között van nyitva a rendelő általános esetekre, de a járványügyi helyzetre való tekintettel ennek újragondolására kényszerültünk, így 2020. március 23. óta a rendelő kizárólag előre egyeztetett időpontokban fogad betegeket.
+Bár az elmúlt 25 évben már megszokhatták, hogy hétköznaponként délután 4 és 7 óra között van nyitva a rendelő általános esetekre, de a járványügyi helyzetre való tekintettel ennek újragondolására kényszerültünk, így 2020. március 23. óta a rendelő <b>kizárólag előre egyeztetett időpontokban</b> fogad betegeket és <b>kizárólag indokolt esetben</b>!
 
-Az időpontfoglaláshoz vegye igénybe az alábbi naptárat:
+Az időpont egyeztetés elindításához keressenk minket telefonon, vagy vegye igénybe az alábbi naptárat:
 
 * válasszon egy (kékkel jelölt) szabad napot,
 * majd időpontot,
-* és kattintson a "Confirm" gombra. 
-
-Ezt követően
-
+* és kattintson a "Confirm" gombra, majd
 * adja meg nevét és email címét, továbbá 
 * a látogatás céljának rövid leírását (pl. veszettségoltás, fogkőeltávolítás vagy a panaszok leírása),
 * majd kattintson a kék "Schedule Event" gombra.
+
+Kérjük, hogy vegye figyelembe, hogy időpont kérésére legkésőbb az adott időpont előtt 4 órával van lehetőség, és a fenti űrlap kitöltését követően várja meg, amíg telefonon vagy emailben visszaigazoljuk időpont-foglalási szándékát.
