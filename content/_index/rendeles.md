@@ -23,3 +23,5 @@ Az időpont egyeztetés elindításához keressenk minket telefonon, vagy vegye 
 * majd kattintson a kék "Schedule Event" gombra.
 
 Kérjük, hogy vegye figyelembe, hogy időpont kérésére legkésőbb az adott időpont előtt 4 órával van lehetőség, és a fenti űrlap kitöltését követően várja meg, amíg telefonon vagy emailben visszaigazoljuk időpont-foglalási szándékát.
+
+A rendelő kizárólag az általános járvány-védelmi szabályok betartásával (kézfertőtlenítés, maszk, kesztyű) látogatható.
