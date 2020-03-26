@@ -17,3 +17,7 @@ title="A rendelőben elérhető szolgáltatások"
 <!-- <div style="text-align:center"> -->
 <!--   <img src="images/rendelo.jpg" width="50%" align="center" /> -->
 <!-- </div> -->
+
+<div style="text-align:center;">
+  <b style="max-width:500px;display:block;margin-left:auto;margin-right:auto;color:red;">A járványügyi helyzetre való tekintettel jelenleg csak indokolt esetben, elsősorban sürgősségi esetek ellátását tudjuk vállalni, <a href="#rendeles">előre egyeztett időpontban</a>.</b>
+</div>
