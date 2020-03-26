@@ -62,23 +62,28 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   url = "#rolunk"
-  name = "Rólunk"
+  name = "Szolgáltatások"
   weight = 20
 
-[[menu.main]]
-  url = "#munkatarsak"
-  name = "Munkatársaink"
-  weight = 25
+# [[menu.main]]
+#   url = "#munkatarsak"
+#   name = "Munkatársaink"
+#   weight = 25
 
 [[menu.main]]
   url = "#rendeles"
   name = "Rendelési idő"
   weight = 30
 
+# [[menu.main]]
+#   url = "#idopont"
+#   name = "Időpontfoglalás"
+#   weight = 35
+
 [[menu.main]]
-  url = "#idopont"
-  name = "Időpontfoglalás"
-  weight = 35
+  url = "#gyik"
+  name = "Gyakran Ismételt Kérdések"
+  weight = 39
 
 [[menu.main]]
   url = "#map"
