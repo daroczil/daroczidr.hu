@@ -19,7 +19,7 @@ Az időpont egyeztetés elindításához keressenk minket telefonon, vagy vegye 
 * majd időpontot,
 * és kattintson a "Confirm" gombra, majd
 * adja meg nevét és email címét, továbbá 
-* a látogatás céljának rövid leírását (pl. veszettségoltás, fogkőeltávolítás vagy a panaszok leírása),
+* a látogatás céljának rövid leírását (pl. mi indokolja / mi a feltétlenül szükséges vizsgálat vagy beavatkozás oka, ill. a panaszok leírása),
 * majd kattintson a kék "Schedule Event" gombra.
 
 Kérjük, hogy vegye figyelembe, hogy időpont kérésére legkésőbb az adott időpont előtt 4 órával van lehetőség, és a fenti űrlap kitöltését követően várja meg, amíg telefonon vagy emailben visszaigazoljuk időpont-foglalási szándékát.
