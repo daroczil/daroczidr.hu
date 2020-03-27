@@ -91,6 +91,11 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 40
 
 [[menu.main]]
+  url = "#velemenyek"
+  name = "Értékelések"
+  weight = 45
+
+[[menu.main]]
   url = "#contact"
   name = "Elérhetőség"
   weight = 50
