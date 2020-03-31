@@ -7,12 +7,13 @@ weight = 50
 title="A rendelőben elérhető szolgáltatások"
 +++
 
-* Tanácsadás. Oltások, microchip behelyezése, útlevél készítése. 
-* Általános betegellátás, sebészi és szülészeti beavatkozások. 
-* Mikroszkópos, vizelet- és vérvizsgálat, labordiagnosztika, különböző szűrővizsgálatok. 
+* Tanácsadás. Oltások, microchip behelyezése, útlevél készítése.
+* Általános betegellátás, sebészi és szülészeti beavatkozások.
+* Mikroszkópos, vizelet- és vérvizsgálat, labordiagnosztika, különböző szűrővizsgálatok.
 * Ultrahang diagnosztika.
 * Lézeres kezelés.
-* Parazita ellenes és egyéb gyógyszerek. Calibra tápsorból rendelhető termékek. 
+* Parazita ellenes és egyéb gyógyszerek. Calibra tápsorból rendelhető termékek.
+* Fogászati beavatkozások, fogkő eltávolítás.
 
 <!-- <div style="text-align:center"> -->
 <!--   <img src="images/rendelo.jpg" width="50%" align="center" /> -->
