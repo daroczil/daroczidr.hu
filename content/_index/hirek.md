@@ -33,7 +33,7 @@ details > p {
 * <details>
     <summary>Nyulak oltása 2020. december 18-án</summary>
     <p>Tisztelt nyúl-tulajdonosok!</p>
-    <p>A tavalyi dec. 11-i RDH2 elleni védőoltásra dec. 18-án kerül sor a délután folyamán azoknál a nyulaknál, amelyeknél a tulajdonossal előre egyeztettünk! Amennyiben igény van rá, legalább 16-ig jelezzék ezt az egri nyulas Facebook csoportnál, vagy nálunk. A költsége függ a résztvevők/igénylők számától. /Jelenleg vélhetően és várhatóan 5.000-5.500 Ft -- méltányosságot is bekalkulálva./</p>
+    <p>A tavalyi dec. 11-i RDH2 elleni védőoltás ismétlésére dec. 18-án kerül sor a délután folyamán azoknál a nyulaknál, amelyeknél a tulajdonossal előre egyeztettünk! Amennyiben igény van rá, legalább 16-ig jelezzék ezt az egri nyulas Facebook csoportnál, vagy nálunk. A költsége függ a résztvevők/igénylők számától. /Jelenleg vélhetően és várhatóan 5.000-5.500 Ft -- méltányosságot is bekalkulálva./</p>
     <p>Tisztelettel:  Daróczi Lajos</p>
 </details>
 
