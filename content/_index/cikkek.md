@@ -12,7 +12,13 @@ title = '"Az állatorvos válaszol" cikkek a HEOL kiadványokban'
 h2 {
   padding-bottom: 2rem;
 }
+div.gallery img {
+  max-height: 900px;
+}
 </style>
 
-<img src="images/cikkek/1.jpg">
-<img src="images/cikkek/2.jpg" style="padding-left: 1rem;">
+<div class="gallery">
+    <img src="images/cikkek/1.jpg">
+    <img src="images/cikkek/2.jpg" style="padding-left: 1rem;">
+    <img src="images/cikkek/3.jpg" style="padding-left: 1rem;">
+</div>
