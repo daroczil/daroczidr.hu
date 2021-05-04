@@ -17,7 +17,7 @@ div.gallery img {
 }
 </style>
 
-<div class="gallery">
+<div class="gallery" id="cikkek">
     <img src="images/cikkek/1.jpg">
     <img src="images/cikkek/2.jpg" style="padding-left: 1rem;">
     <img src="images/cikkek/3.jpg" style="padding-left: 1rem;">
