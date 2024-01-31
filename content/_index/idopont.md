@@ -13,7 +13,8 @@ weight = 120
 # Mailerlite is one example of a working provider.
 # There are others such as convertkit.
 # Only necessity is for them to use iframes.
-media = '<!-- Calendly inline widget begin --><div class="calendly-inline-widget" data-url="https://calendly.com/daroczidr/rendeles?hide_event_type_details=1" style="min-width:320px;height:660px;"></div><script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script><!-- Calendly inline widget end -->'
+#media = '<!-- Calendly inline widget begin --><div class="calendly-inline-widget" data-url="https://calendly.com/daroczidr/rendeles?hide_event_type_details=1" style="min-width:320px;height:660px;"></div><script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script><!-- Calendly inline widget end -->'
+media = '<script src="https://embed.ycb.me" async="true" data-domain="daroczil" data-content="all"></script>'
 # primary_color=00693E
 responsive = false # prevent responsive behaviour
 size = "100" # 25, 50, 75, 100 (percentage) - default: 75

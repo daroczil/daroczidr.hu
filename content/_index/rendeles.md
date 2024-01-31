@@ -11,17 +11,4 @@ title = "Rendelési idő"
 #padding="0"
 +++
 
-Bár az elmúlt 25 évben már megszokhatták, hogy hétköznaponként délután 4 és 7 óra között van nyitva a rendelő általános esetekre, de a járványügyi helyzetre való tekintettel ennek újragondolására kényszerültünk, így 2020. március 23. óta a rendelő <b>kizárólag előre egyeztetett időpontokban</b> fogad betegeket és <b>kizárólag indokolt esetben</b>!
-
-Az időpont egyeztetés elindításához keressenk minket telefonon, vagy vegye igénybe az alábbi naptárat:
-
-* válasszon egy (kékkel jelölt) szabad napot,
-* majd időpontot,
-* és kattintson a "Confirm" gombra, majd
-* adja meg nevét és email címét, továbbá
-* a látogatás céljának rövid leírását (pl. mi indokolja / mi a feltétlenül szükséges vizsgálat vagy beavatkozás oka, ill. a panaszok leírása),
-* majd kattintson a kék "Schedule Event" gombra.
-
-Kérjük, hogy vegye figyelembe, hogy időpont kérésére legkésőbb az adott időpont előtt 4 órával van lehetőség.
-
-A rendelő kizárólag az általános járvány-védelmi szabályok betartásával (kézfertőtlenítés, maszk, kesztyű) látogatható. Ezzel kapcsolatban kérjük, hogy nézze át a releváns [Gyakran Ismételt Kérdések](#gyik) -et, vagy keressenk minket telefonon.
+A rendelő <b>előre egyeztetett időpontokban</b> fogad betegeket. Az időpont egyeztetés elindításához keressen minket telefonon, vagy vegye igénybe az alábbi naptárat. Kérjük, hogy vegye figyelembe, hogy időpont kérésére legkésőbb az adott időpont előtt 4 órával van lehetőség.

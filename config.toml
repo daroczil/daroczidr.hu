@@ -80,10 +80,10 @@ lastmod = ["lastmod", ":git", "date"]
 #   name = "Időpontfoglalás"
 #   weight = 35
 
-[[menu.main]]
-  url = "#gyik"
-  name = "Gyakran Ismételt Kérdések"
-  weight = 39
+# [[menu.main]]
+#   url = "#gyik"
+#   name = "Gyakran Ismételt Kérdések"
+#   weight = 39
 
 [[menu.main]]
   url = "#map"
