@@ -5,7 +5,7 @@ date = "2017-10-05"
 weight = 20
 background = "primary"
 
-title = "Friss hírek"
+title = "Hírek"
 #subtitle = "Full width content fragment"
 #title_align = "left" # Default is center, can be left, right or center
 +++
@@ -31,11 +31,26 @@ details > p {
 </style>
 
 * <details>
-    <summary>Nyulak oltása 2020. december 18-án</summary>
-    <p>Tisztelt nyúl-tulajdonosok!</p>
-    <p>A tavalyi dec. 11-i RDH2 elleni védőoltás ismétlésére dec. 18-án kerül sor a délután folyamán azoknál a nyulaknál, amelyeknél a tulajdonossal előre egyeztettünk! Amennyiben igény van rá, legalább 16-ig jelezzék ezt az egri nyulas Facebook csoportnál, vagy nálunk. A költsége függ a résztvevők/igénylők számától. /Jelenleg vélhetően és várhatóan 5.000-5.500 Ft -- méltányosságot is bekalkulálva./</p>
+    <summary>2024. január 31: Alap/3-as kombi oltás macskáknak</summary>
+    <p>Tisztelt Macskatulajdonosok!</p>
+    <p>Akikkel december óta halasztjuk az alap/3-as kombi oltást,mert a
+    vakcina hiányzott, azokat kérem, hogy jelentkezzenek be oltásra.
+    De csak AZOK, mert náluk már egy ideje húzódik-tolódik az oltásuk.
+    A többiek, vagy külsősök, türelmét kérnénk, mert a készlet véges.
+    A közeljövőre ígérték a gyártók a készlet feltöltését.</p>
+    <p>Köszönettel:  Daróczi Lajos</p>
+</details>
+
+* <details>
+    <summary>2024. január 30: Veszettségoltás</summary>
+    <p>Tisztelt Állattulajdonosok!</p>
+    <p>A közelmúlt határszéli veszettség-esetek, melyek  háziállatokban is
+    megjelentek - sőt macskán, mely emberre támadt - is megállapították/kimutatták
+    a betegséget/vírust.</p>
+    <p>Ezért kérjük, javasoljuk a veszettség elleni oltások érvényességét ellenőrizni,
+    lejárat esetén ismételtetni! Kijáró macskáknál is ajánlott az oltás.
+    Minden melegvérűre, így emberre is fertőző,halálos kimenetelű a vírus.</p>
     <p>Tisztelettel:  Daróczi Lajos</p>
 </details>
 
-* [A járványügyi helyzetre való tekintettel megváltozott rendelés](#rendeles)
-* [Gyakran Ismételt Kérdések a koronavírus kapcsán](#gyik)
+
